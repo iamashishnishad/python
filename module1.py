@@ -87,16 +87,14 @@ for i in range(10, 15, 2):
 # 2. We did not know number of times need to repeat 
 
 
-while loop_
-    # code to be executed
+loop_ = 10
+
+while loop_ < 15:
+    print("The value of loop_ is:", loop_)
+    loop_ += 1
 
 
 # Data structures in python
 
 
 Array = [1, 2, 3, 4, 5]
-
-
-
-
-    
